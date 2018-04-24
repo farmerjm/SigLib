@@ -6,7 +6,7 @@
 #include "TCanvas.h"
 #include "TH1.h"
 #include "TRandom3.h"
-#include "trapfilt.h" 
+#include "SigLibBasic.h" 
 
 int main() {
   TRandom3 rand(time(NULL));
